@@ -4,7 +4,6 @@ phases:
   build:
     commands:
       - echo nothing yet
-
 artifacts:
   files:
-    - *.*
+    - *
