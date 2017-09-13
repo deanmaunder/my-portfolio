@@ -6,4 +6,8 @@ phases:
       - echo nothing yet
 artifacts:
   files:
-    - *
+    - index.html
+    - DeanMaunder-CV.pdf
+    - favicon.ico
+    - images/*
+    - styles/*
